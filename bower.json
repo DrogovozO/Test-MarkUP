@@ -1,0 +1,23 @@
+{
+  "name": "test-task",
+  "description": "",
+  "main": "",
+  "authors": [
+    "DrogovozO <drogovoz.olga.92@gmail.com>"
+  ],
+  "license": "ISC",
+  "moduleType": [],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+    "dependencies": {
+    "normalize.css": "*",
+    "jquery": "2.*"
+  }
+
+}
